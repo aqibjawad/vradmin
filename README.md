@@ -1,1 +1,1 @@
-# vradmin
+# mosouq-admin
